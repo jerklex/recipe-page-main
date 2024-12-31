@@ -95,7 +95,7 @@ Daha fazla projeye katılıp farklı kütüphaneler öğrenmeyi ve kendimi daha 
 ## Yazar
 
 - Frontend Mentor - [@jerklex](https://www.frontendmentor.io/profile/jerklex)
-- github - [@jerklex](https://https://github.com/jerklex)
+- github - [@jerklex](https://github.com/jerklex)
 
 ## Teşekkürler
 
