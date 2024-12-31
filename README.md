@@ -20,14 +20,14 @@ Bu, [Frontend Mentor'daki Tarif Sayfası zorluğuna](https://www.frontendmentor.
 
 ### Ekran Görüntüsü
 
-![](./ss.png)
+![](/ss.png)
 
 ### Bağlantılar
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
+## Sürecim
 
 ### Kullanılan Teknolojiler
 
