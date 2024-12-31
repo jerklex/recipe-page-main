@@ -20,7 +20,7 @@ Bu, [Frontend Mentor'daki Tarif Sayfası zorluğuna](https://www.frontendmentor.
 
 ### Ekran Görüntüsü
 
-![](/ss.png)
+![](design/ss.png)
 
 ### Bağlantılar
 
